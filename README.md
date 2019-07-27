@@ -15,7 +15,7 @@ Use the gem.
 ```rb
 require 'one_divided_by_one'
 
-OnePlusOne.quotient
+OneDividedByOne.quotient
 # => 1
 ```
 
